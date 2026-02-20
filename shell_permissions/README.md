@@ -1,4 +1,4 @@
-# Shell Permissions
+# Shell permissions
 ## 0-execute
 Adds execute permission to the owner of the file hello.
 ## 1-multiple_permissions
